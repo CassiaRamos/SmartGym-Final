@@ -9,7 +9,8 @@
     <meta name="author" content="SmartGym">
 
     <title>SmartGym - Acompanhamento Inteligente </title>
-
+    
+    <!-- so teste -->
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
